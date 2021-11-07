@@ -1,0 +1,22 @@
+body {
+    background-color: rgba(235, 98, 200, 0.13);
+}
+
+.jumbotron {
+    background-image: url("../image/data-thumbnail-module-12.png");
+    background-size: 100% 100%;
+    text-align: center;
+    
+
+}
+
+.jumbotron h1{
+    background-color: white;
+    color: #fc10c9b0;
+}
+
+
+.jumbotron p{
+    background-color: white;
+    color: #1020fc7c;
+}
