@@ -8,7 +8,7 @@ The purpose of the Bellybutton Biodiversity Analysis was to assist a biological 
   - A gauge meter depicting bellybutton washing frequency
   - A bubble chart depicting bacteria cultures per sample
 
-The webpage has been enhanced with the following customizations of the webpage:
+The webpage has been enhanced with the following customizations:
   - A color scheme as indicated by bright pink and purple font colors contrasted against a white background of the jumbotron's heading and subheading as well as the pink background color of the whole webpage
   - Adjustments to the margins and layout of the bar chart and gauge meter 
   - A background image within the banner of the jumbotron. 
