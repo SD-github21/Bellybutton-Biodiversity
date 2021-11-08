@@ -1,7 +1,7 @@
 # Bellybutton Biodiversity Analysis
 
 ## Overview of Bellybutton Biodiversity Analysis
-The purpose of the Bellybutton Biodiversity Analysis was to assist a biological researcher at a research lab with building a webpage to publish biological data of bellybutton bacterial samples. The webpage is designed to allow researchers as well as the volunteers who provided the bacterial samples the ability to view a dashboard containing various data visualizations of the biological data of all the research participants. Visitors to the webpage will be able to select an individual ID number of anyone who participanted in the research study from a drop-down menu and view:
+The purpose of the Bellybutton Biodiversity Analysis was to assist a biological research lab with building a webpage to publish their biological research data of bellybutton bacterial samples. The webpage is designed to allow researchers as well as the volunteers who provided the bacterial samples the ability to view a dashboard containing various data visualizations of the biological data of all the research participants. Visitors to the webpage will be able to select an individual ID number of anyone who participanted in the research study from a drop-down menu and view:
 
   - A panel of demographic information about the research participant
   - A bar chart of the top 10 bacteria cultures found in that person's bellybutton
