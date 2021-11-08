@@ -8,7 +8,10 @@ The purpose of the Bellybutton Biodiversity Analysis was to assist a biological 
   - A gauge meter depicting bellybutton washing frequency
   - A bubble chart depicting bacteria cultures per sample
 
-The webpage has been enhanced with a color scheme as indicated by (1) bright pink and purple font colors contrasted against a white background of the jumbotron's heading and subheading and (2) the pink background color of the whole webpage as well as (3) adjustments to the margins and layout of the bar chart and gauge meter and (4) a background image within the banner of the jumbotron. 
+The webpage has been enhanced with the following customizations of the webpage:
+  - A color scheme as indicated by bright pink and purple font colors contrasted against a white background of the jumbotron's heading and subheading as well as the pink background color of the whole webpage
+  - Adjustments to the margins and layout of the bar chart and gauge meter 
+  - A background image within the banner of the jumbotron. 
 
 In addition to providing a dynamic visualization of each research participant's data that will enhance greater understanding about bellybutton bacteria, research volunteers will be able to see what bacteria are present in their bellybuttons and learn if their bacteria will be useful for "Improbable Beef", a company that produces plant-based  products that mimic the taste and appearance of beef.  
 
