@@ -17,6 +17,6 @@ In addition to providing a dynamic visualization of each research participant's 
 
 ## Resources
 - Data Sources: chart.js, index.html, samples.json, style.css, data-thumbnail-module-12.png
-- Software: Python 3.7.10, Anaconda 1.7.2, HTML, JavaScript
+- Software: Python 3.7.10, Anaconda 1.7.2, HTML, JavaScript, D3.js
 
 
